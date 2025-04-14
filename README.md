@@ -10,4 +10,4 @@ finally run python s3_download.py to download all the files in plp bucket (shoul
 
 lastly run python decomp.py to unzip everything into json format (takes a lot of time ~10 to 14)
 
-if anything goes i will be sleeping :/ 
+if anything goes wrong i will be sleeping :/ 
