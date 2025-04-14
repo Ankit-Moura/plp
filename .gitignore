@@ -1,0 +1,13 @@
+env/
+.env
+
+decompress_data.py
+download.py
+converted_files/
+
+downloaded_files/
+fast_converted_files/
+fast_downloaded_files/
+json/
+
+*.json
